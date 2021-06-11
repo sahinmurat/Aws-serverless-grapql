@@ -1,4 +1,4 @@
-### https://dev.d3vju7p6bxhpjn.amplifyapp.com it's hier deployed
+### https://dev.d3vju7p6bxhpjn.amplifyapp.com yopu can follow with this link
 
 
 # Getting Started with Create React App
