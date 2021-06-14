@@ -1,4 +1,5 @@
 ### https://dev.d3vju7p6bxhpjn.amplifyapp.com yopu can follow with this link
+### For authentication aws is used.
 
 
 # Getting Started with Create React App
